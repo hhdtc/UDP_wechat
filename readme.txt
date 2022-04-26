@@ -1,7 +1,7 @@
 OS: windows/ubuntu/Mac OS
 
-launch: windows: main.cmd (if you have some wired characters, try main_utf-8.cmd)
-        Mac OS/ubuntu: main.sh (if you have some wired characters, try main_utf-8.cmd)
+launch: windows: main.cmd (if you have some wiered characters, try main_utf-8.cmd)
+        Mac OS/ubuntu: main.sh (if you have some wiered characters, try main_utf-8.cmd)
 
 enter user name.
 click "find nearby user" button to find nearby users.
